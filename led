@@ -7,8 +7,8 @@ import RPi.GPIO as GPIO
 
 # change this to the values from MCS web console
 DEVICE_INFO = {
-    'device_id' : 'DCaXYHUP',
-    'device_key' : 'EeS0npxf5R5sRkHc'
+    'device_id' : 'DqVTl80X',
+    'device_key' : 'iCEWVMZYw5r9Xfk6'
 }
 
 # change 'INFO' to 'WARNING' to filter info messages
